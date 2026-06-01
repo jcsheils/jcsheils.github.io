@@ -8,4 +8,4 @@ title: Home
   <img src="/assets/c01josh.jpg" alt="My Photo" width="200">
 </p>
 
-📧: [joseph.sheils@cispa.de](mailto:Joseph.Sheils@aws-institut.de)
+📧: [Joseph.Sheils@aws-institut.de](mailto:Joseph.Sheils@aws-institut.de)
